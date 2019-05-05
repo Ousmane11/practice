@@ -1,2 +1,2 @@
 # practice
-This repository is only my first experiment o learn how to use GitHub
+This repository is only my first experiment to learn how to use GitHub
